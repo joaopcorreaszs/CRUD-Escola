@@ -1,3 +1,5 @@
+Alunos: JOÃO PEDRO CORREA DE SOUSA
+        LARISSA COSTA LEMOS DA SILVA
 #include <stdio.h>
 
 // Definimos uma estrutura (struct) básica
